@@ -1,0 +1,15 @@
+{
+  "name": "ai-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "start:dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.0.0"
+  },
+  "author": "anil verma",
+  "license": "ISC"
+}
